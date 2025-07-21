@@ -1,0 +1,39 @@
+# --- Python cache ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# --- Virtual envs ---
+venv/
+.venv/
+env/
+ENV/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- IDE / Editors ---
+.idea/
+.vscode/
+*.swp
+
+# --- Data / Models (large) ---
+data/
+models/
+*.pt
+*.pth
+*.h5
+*.npz
+*.zip
+*.tar
+*.tar.gz
+
+# --- Logs ---
+logs/
+*.log
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
